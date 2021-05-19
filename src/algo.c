@@ -2,6 +2,8 @@
 
 void main()
 {
-	printf("test!!");
+	int i=0;
+
+	printf("test = [%d]", i);
 
 }
